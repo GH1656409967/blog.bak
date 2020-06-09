@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.lordash.cf/%E4%B8%93%E9%A2%98/%E3%80%90%E4%B8%93%E9%A2%98%E3%80%91%E5%8D%9A%E5%BC%88%E8%AE%BA/</loc>
+    
+    <lastmod>2020-06-09T14:07:47.336Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.lordash.cf/%E9%A2%98%E8%A7%A3/%E5%9F%BA%E7%A1%80/%E6%90%9C%E7%B4%A2/BFS/%E3%80%90%E9%A2%98%E8%A7%A3%E3%80%91POJ-3414%20Pots/</loc>
     
     <lastmod>2020-06-09T10:44:50.734Z</lastmod>
@@ -1069,13 +1076,6 @@
     <loc>https://blog.lordash.cf/%E6%B5%8B%E8%AF%95/%E3%80%90%E6%B5%8B%E8%AF%95%E3%80%91nexT%E7%9A%84markdown%E6%94%AF%E6%8C%81/</loc>
     
     <lastmod>2020-06-08T14:03:08.629Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lordash.cf/%E4%B8%93%E9%A2%98/%E3%80%90%E4%B8%93%E9%A2%98%E3%80%91%E5%8D%9A%E5%BC%88%E8%AE%BA/</loc>
-    
-    <lastmod>2020-06-08T14:00:57.718Z</lastmod>
     
   </url>
   
