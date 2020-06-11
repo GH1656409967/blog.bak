@@ -1,3 +1,3 @@
-// build time:Wed Jun 10 2020 17:11:27 GMT+0800 (GMT+08:00)
+// build time:Thu Jun 11 2020 14:23:33 GMT+0800 (GMT+08:00)
 $(document).ready(function(){$(document).on("click",".fold_hider",function(){$(">.fold",this.parentNode).slideToggle();$(">:first",this).toggleClass("open")});$("div.fold").css("display","none")});
 //rebuild by neat 
