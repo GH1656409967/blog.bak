@@ -2,23 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.lordash.cf/posts/2aa44f65.html</loc>
+    <loc>https://blog.lordash.cf/library/index.html</loc>
     
-    <lastmod>2020-06-17T10:59:56.567Z</lastmod>
+    <lastmod>2020-06-27T09:57:57.654Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lordash.cf/posts/8e3cecbf.html</loc>
+    
+    <lastmod>2020-06-17T23:40:15.585Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.lordash.cf/posts/266a09be.html</loc>
     
-    <lastmod>2020-06-17T10:43:22.662Z</lastmod>
+    <lastmod>2020-06-17T23:33:09.933Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lordash.cf/posts/2aa44f65.html</loc>
+    
+    <lastmod>2020-06-17T23:23:18.934Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.lordash.cf/posts/f0fbaf1d.html</loc>
     
-    <lastmod>2020-06-17T10:36:10.088Z</lastmod>
+    <lastmod>2020-06-17T23:22:15.879Z</lastmod>
     
   </url>
   
@@ -26,13 +40,6 @@
     <loc>https://blog.lordash.cf/posts/466426a4.html</loc>
     
     <lastmod>2020-06-17T10:35:47.438Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lordash.cf/posts/8e3cecbf.html</loc>
-    
-    <lastmod>2020-06-17T10:34:47.216Z</lastmod>
     
   </url>
   
@@ -1104,13 +1111,6 @@
     <loc>https://blog.lordash.cf/skill/index.html</loc>
     
     <lastmod>2020-06-09T09:20:14.771Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lordash.cf/library/index.html</loc>
-    
-    <lastmod>2020-06-07T02:40:03.377Z</lastmod>
     
   </url>
   
