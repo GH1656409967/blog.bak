@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.lordash.cf/gallery/index.html</loc>
+    
+    <lastmod>2020-07-19T02:27:24.982Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.lordash.cf/posts/9fb4723d.html</loc>
     
     <lastmod>2020-07-18T03:08:55.587Z</lastmod>
@@ -1391,13 +1398,6 @@
     <loc>https://blog.lordash.cf/tags/index.html</loc>
     
     <lastmod>2020-06-07T02:39:52.910Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lordash.cf/gallery/index.html</loc>
-    
-    <lastmod>2020-06-07T02:39:41.078Z</lastmod>
     
   </url>
   
