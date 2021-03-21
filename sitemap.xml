@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.lordash.cf/navigation/index.html</loc>
+    
+    <lastmod>2021-03-21T08:19:05.600Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.lordash.cf/about/index.html</loc>
     
-    <lastmod>2021-03-21T07:59:44.229Z</lastmod>
+    <lastmod>2021-03-21T08:17:59.330Z</lastmod>
     
   </url>
   
@@ -110,13 +117,6 @@
     <loc>https://blog.lordash.cf/posts/45ba8d5c.html</loc>
     
     <lastmod>2020-08-22T09:06:40.140Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lordash.cf/navigation/index.html</loc>
-    
-    <lastmod>2020-08-20T23:31:01.151Z</lastmod>
     
   </url>
   
