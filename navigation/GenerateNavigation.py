@@ -29,8 +29,8 @@ def writeFile(filename):
     for aLine in ans:
         if aLine[0] == 0:
             break
-        str = '[' + aLine[0] + '](https://blog.lordash.cf/posts/' + aLine[1] + '.html)' 
-        fopen.write('%s%s' % (str, os.linesep))
+        str = '[' + aLine[0] + '](https://blog.lordash.cf/posts/' + aLine[1] + '.html)\n' 
+        fopen.write(str)
     fopen.close()
  
 if __name__ == '__main__':
